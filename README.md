@@ -4,7 +4,6 @@ AI-generated voiceover data pack for **World of Warcraft: The Burning Crusade** 
 
 > **Note:** This is a community data module — it provides the actual audio files and lookup tables. You need the **AI_VoiceOver** addon installed for the voices to play in-game.
 
-**WOTLK COMING SOON**
 ---
 
 ## Contents
